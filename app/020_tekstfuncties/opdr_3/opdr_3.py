@@ -1,5 +1,5 @@
 # Opdracht 3
-# Naam student: Radwan Jabri
+# Naam student: Hassan Aljasem
 # Groep: ...
  
 # Eén boom bestaat uit deze 8 regels:

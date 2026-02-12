@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student: Radwan Jabri
+# Naam student: Hassan aljasem
 # Groep: ...
  
 # Variabelen met namen en leeftijden

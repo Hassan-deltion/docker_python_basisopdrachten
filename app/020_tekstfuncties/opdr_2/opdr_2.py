@@ -1,5 +1,5 @@
 # Opdracht 1
-# Naam student: Radwan Jabri
+# Naam student: Hassan Aljasem
 # Groep: ...
  
 # Hier komt je code...
