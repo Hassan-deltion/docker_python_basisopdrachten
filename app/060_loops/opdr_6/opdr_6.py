@@ -1,9 +1,17 @@
 # Opdracht 3 input functie
-# Naam student:
+# Naam student:hassan Aljasem
 # Groep:
 
-# Hier komt je code...
+
 
 # Hier start de for-loop
 
-my_list = []
+pizzas = ['margharita', 'calzone', 'verdi', 'olivio', 'quattro stagioni']
+
+pizzas.sort()
+pizzas.append('yo-favorito')
+pizzas.remove('olivio')
+
+print(pizzas[:3])
+print([pizzas[len(pizzas)//2]])
+print(pizzas[-3:])
