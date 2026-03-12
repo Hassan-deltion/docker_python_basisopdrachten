@@ -1,9 +1,12 @@
 # Opdracht 3 input functie
-# Naam student:
+# Naam student:Hassan Aljasem
 # Groep:
 
-# Hier komt je code...
+my_list = []
 
 # Hier start de for-loop
+for i in range(3, 82, 3):
+    resultaat = (i ** 2) / 3
+    my_list.append(resultaat)
 
-my_list = []
+print(my_list)
